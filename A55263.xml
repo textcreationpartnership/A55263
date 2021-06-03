@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem to her Royal Highness, upon the birth of her daughter</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55263</idno><idno type="EEBO-CITATION">12115096</idno>
+  <idno type="VID">54275</idno>
+  <idno type="EEBO-PROQUEST">2248540776</idno>
+  
+            <idno type="STC">Wing P2706</idno>
+            <idno type="STC">ESTC R19447</idno>
+            <idno type="OCLC">12115096</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem to her Royal Highness, upon the birth of her daughter</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Sweetman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>On the birth of the daughter of Mary of Modena, queen consort of James II.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:54275:1"/>
+            <pb facs="tcp:54275:1"/>
+            <head>A POEM TO <hi>Her Royal Highness,</hi> UPON THE Birth of her Daughter.</head>
+            <opener>
+               <salute>MADAM!</salute>
+            </opener>
+            <lg>
+               <l>BY all our Thunder-thumping Lies, by <hi>Jove,</hi>
+               </l>
+               <l>By all the Gods, that Rule the Sphears above;</l>
+               <l>We are all Lost; kind Heaven have Mercy on us,</l>
+               <l>Your Lying down has quite and clean undone us.</l>
+               <l>Who e'er did think the Angry Planets wou'd</l>
+               <l>Turn Bonny <hi>Blue-Cap</hi> to a <hi>Silken Hoood?</hi>
+               </l>
+               <l>Alas! alas! to what an Ebb wee're brought?</l>
+               <l>Are all our Vows and Prayers come to nought?</l>
+               <l>How basely false is <hi>Thompsons</hi> Prophecy?</l>
+               <l>Now be believes his Father De'el can Lie.</l>
+               <l>While all the Grinning Whiggs do burst with Laughter</l>
+               <l>To see the Monarch <hi>Son</hi> should prove a <hi>Daughter.</hi>
+               </l>
+               <l>We had design'd in Racy Gossips Bowls</l>
+               <l>And Christning Caudles to refresh our Souls,</l>
+               <l>When the Majestick <hi>Boy</hi> should once appear</l>
+               <l>We'd Swim in Wine, and would Carouze in Beer,</l>
+               <l>And Feast our Bellys with the Richest Chear.</l>
+               <l>Proving a <hi>Girl,</hi> alas it proves our Woe!</l>
+               <l>Our Feast is spoil'd, and all our Cakes are Dough.</l>
+               <l>We did design to Revel in the Street,</l>
+               <l>And highest Skies with Fire-works to Greet;</l>
+               <l>With Shouts your Labouring Self to Entertain,</l>
+               <l>As Neighbour Heathens do the Moon in Pain;</l>
+               <l>Each Loyal Tory with his Gloating Mate</l>
+               <l>The <hi>Lads</hi> Nativity would Celebrate.</l>
+               <l>
+                  <hi>Tantivy Boys</hi> to Dance, their Clerks to Sing,</l>
+               <l>Had all design'd within a Holy Ring,</l>
+               <pb facs="tcp:54275:2"/>
+               <pb facs="tcp:54275:2"/>
+               <l>And witty Females were to be Spectators,</l>
+               <l>
+                  <hi>Towzer</hi> had made a Crown of <hi>Observators</hi>
+               </l>
+               <l>For the brisk <hi>Boy</hi> to wear, but now the Elf</l>
+               <l>May bravely take it up and wear't himself.</l>
+               <l>Nay 'tother day, when Lords and Taylors met,</l>
+               <l>And Loyal Prentices in Rank were set,</l>
+               <l>To <hi>Hans-en-kelder</hi> they did quaff each Glass,</l>
+               <l>And who e're did Refuse, was Dub'd an Ass.</l>
+               <l>Grandees would find Coralls to rub his Gums,</l>
+               <l>And Prentices would find him Sugar Plums,</l>
+               <l>And this they did Confirm with Loyal Oaths,</l>
+               <l>But <hi>Whip-stich</hi> he did Hope to make him Cloaths.</l>
+               <l>But we're deceiv'd; for <hi>Madam</hi> in your Arms</l>
+               <l>Is held a Girl, that is all over Charms.</l>
+               <l>A Girl, though fair, yet is the bane of Bliss,</l>
+               <l>'Tis Gloomy Woman Darkens Paradice;</l>
+               <l>Women, though fair, yet ugly are their Wills,</l>
+               <l>Born to do Mischief, and Triumph in ills.</l>
+               <l>
+                  <hi>Madam,</hi> how many longing Hearts did Groan</l>
+               <l>With Tedious Sighs to see your wisht-for Son?</l>
+               <l>But if it be a Maid, we'le Chear our Hearts,</l>
+               <l>And once again Rely upon our Arts:</l>
+               <l>Nature shall never our Fledg'd Hopes destroy;</l>
+               <l>I'le swear if it be a <hi>Maid,</hi> we'll mak't a <hi>Boy.</hi>
+               </l>
+               <l>But 'twas a Boy, the Fault is only this,</l>
+               <l>The Midwife Circumcis'd the Babe amiss.</l>
+               <l>And if it be cut off, we won't Complain</l>
+               <l>The Child is young and it may grow again.</l>
+               <l>But if it be a Maid, what need we Care?</l>
+               <l>We make no use of the <hi>Porphyry Chair.</hi>
+               </l>
+               <l>Then rouze up all you Tories of our Isle!</l>
+               <l>Fortune on us can never chuse but Smile;</l>
+               <l>We have the best of all her Pleasant Gifts,</l>
+               <l>Her Lucky hand doth Help us at dead Lifts;</l>
+               <l>And if untimely Death by Chance destroy</l>
+               <l>The happy Infant, either Maid or Boy;</l>
+               <l>Yet will we Revel at a well set Board,</l>
+               <l>And drink a Loyal Health, to Royal <hi>Charles the Third.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Sweetman.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
